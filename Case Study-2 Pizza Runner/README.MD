@@ -20,14 +20,9 @@ Key datasets for this case study
   
 ## Entity Relationship Diagram
   ![image](https://user-images.githubusercontent.com/75075887/216654172-421f7dcb-088a-4120-b136-b0f35925cc8e.png)
-  ---
+---
 ## Data Cleaning
 Some data issues, like data inconsistency in format, datatype, and garbage values, are found in the customer_orders and runner_orders tables. 
-  
-  ---  
-##  Table of Contents
-* Bussiness Task
-* Case Study Questions
   
 ---
 ## Problem Task
