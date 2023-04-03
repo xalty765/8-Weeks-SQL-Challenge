@@ -58,15 +58,13 @@ The final members table captures the `join_date` when a `customer_id` joined the
 ![изображение](https://user-images.githubusercontent.com/98699089/156034410-8775d5d2-eda5-4453-9e33-54bfef253084.png)
 
 
-## Table of Contents
-
- ### Problem Statement
+## Problem Statement
 
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
 
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program.
 
-### Case Study Questions
+## Case Study Questions
 
 1. What is the total amount each customer spent at the restaurant?
 
