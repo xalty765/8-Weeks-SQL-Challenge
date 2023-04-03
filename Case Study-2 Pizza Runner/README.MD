@@ -18,8 +18,11 @@ Key datasets for this case study
 - **pizza_recipes** : Each pizza_id has a standard set of toppings which are used as part of the pizza recipe.
 - **pizza_toppings** : The table contains all of the topping_name values with their corresponding topping_id value
   
- ## Entity Relationship Diagram
+## Entity Relationship Diagram
   ![image](https://user-images.githubusercontent.com/75075887/216654172-421f7dcb-088a-4120-b136-b0f35925cc8e.png)
+  ---
+## Data Cleaning
+Some data issues, like data inconsistency in format, datatype, and garbage values, are found in the customer_orders and runner_orders tables. 
   
   ---  
 ##  Table of Contents
