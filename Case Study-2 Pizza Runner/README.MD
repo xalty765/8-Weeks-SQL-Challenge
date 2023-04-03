@@ -23,8 +23,7 @@ Key datasets for this case study
 ---
 ## Data Cleaning
 Some data issues, like data inconsistency in format, datatype, and garbage values, are found in the customer_orders and runner_orders tables. 
-  
----
+
 ## Problem Task
 Danny wanted to expand his new Pizza Empire and intended to Uberize it with Pizza Runner. 
 Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) 
