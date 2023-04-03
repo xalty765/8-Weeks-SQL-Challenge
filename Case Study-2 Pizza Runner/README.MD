@@ -27,7 +27,6 @@ Some data issues, like data inconsistency in format, datatype, and garbage value
   ---  
 ##  Table of Contents
 * Bussiness Task
-* Entity Relationship Diagram
 * Case Study Questions
   
 ---
